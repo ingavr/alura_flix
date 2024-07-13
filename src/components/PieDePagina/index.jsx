@@ -21,7 +21,7 @@ export function PieDePagina() {
     return (
         <Footer>
             <FooterContenido>
-                &copy; 2023. Desarollador por <LinkExterno href="">Waldir Maidana</LinkExterno>
+                &copy; 2024. Desarollado por <LinkExterno href="">Anthony Valdez</LinkExterno>
             </FooterContenido>
         </Footer>
     );
